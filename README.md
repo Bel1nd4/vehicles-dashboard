@@ -49,3 +49,6 @@ El archivo `vehicles_us.csv` contiene información sobre vehículos usados publi
 - Condición del vehículo
 - Marca y modelo
 
+## 🌐 Enlace a la aplicación desplegada
+
+[Haz clic aquí para ver la aplicación en Render](https://vehicles-dashboard-fn8o.onrender.com)
